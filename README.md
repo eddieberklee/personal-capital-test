@@ -1,3 +1,6 @@
+Eddy Lee
+========
+
 For ease of reading, I didn't extract all numeric constants into variables and @dimens. I felt uneasy leaving them in there like that, but also didn't want too create too many variables and dimens for anyone reading the code to have to click into.
 
 Check out screenshot.png for a quick peek into the UI.
