@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <bool name="is_tablet">true</bool>
+
+    <dimen name="title_padding_sides">14dp</dimen>
+    <dimen name="title_padding_bottom">8dp</dimen>
+
+</resources>

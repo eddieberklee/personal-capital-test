@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <bool name="is_tablet">false</bool>
+
+    <dimen name="article_title_size">14sp</dimen>
+    <dimen name="article_description_size">13sp</dimen>
+
+    <dimen name="title_padding_sides">8dp</dimen>
+    <dimen name="title_padding_bottom">4dp</dimen>
+
+    <dimen name="article_item_margin">5dp</dimen>
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_title">#000000</color>
+    <color name="article_text">#FFFFFF</color>
+    <color name="article_text_shadow">@color/black_transp_40</color>
+
+    <color name="article_text_background_shadow_start">@color/black_transp_70</color>
+    <color name="article_text_background_shadow_end">@color/black_transp_0</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="black_transp_0">#00000000</color>
+    <color name="black_transp_05">#0D000000</color>
+    <color name="black_transp_10">#1A000000</color>
+    <color name="black_transp_20">#33000000</color>
+    <color name="black_transp_30">#4D000000</color>
+    <color name="black_transp_40">#66000000</color>
+    <color name="black_transp_50">#80000000</color>
+    <color name="black_transp_60">#99000000</color>
+    <color name="black_transp_70">#B3000000</color>
+    <color name="black_transp_80">#CC000000</color>
+    <color name="black_transp_90">#E6000000</color>
+
+</resources>
